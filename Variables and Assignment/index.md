@@ -21,7 +21,7 @@ let i = 1;
 
 ### variables declared via const must be initialized immediately
 
-> In JavaScript, const only means that the binding (the association between variable name and variable value) is immutable. The value itself may be mutable, like obj in the following example.
+> In JavaScript, const only means that the binding (the association between variable name and variable value) is immutable.
 > [Source: Dr. Axel Rauschmayer: JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
 
 ```javascript
