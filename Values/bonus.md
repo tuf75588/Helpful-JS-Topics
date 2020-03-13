@@ -37,7 +37,7 @@ the two differences are:
 
 ---
 
-# `instanceof`
+## `instanceof`
 
 The answer this operator answers is, has a value `x` been created by a `class c`?
 
